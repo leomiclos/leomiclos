@@ -10,9 +10,7 @@
 **Aplicações e Dados**
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![HTML].https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-  ![CSS].https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-  ![Angular].https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
 
 **Ferramentas de Desenvolvimento**
 
