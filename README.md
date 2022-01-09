@@ -1,20 +1,23 @@
 <h3> 🙍‍♂️: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Tenho 22 anos e sou novato no mundo do desenvolvimento e programação.
+- 🤔 &nbsp; Tenho 23 anos e sou novato no mundo do desenvolvimento e programação.
 - 🎓 &nbsp; Estudando Engenharia da Computação.
-- 💼 &nbsp; Sem experiência profissional.
-- 🌱 &nbsp; Aprendendo mais sobre JAVA e SQL.
+- 💼 &nbsp; Estagiário desde o dia 08/09/2021
+- 🌱 &nbsp; Adquirindo conhecimentos durante o estágio em HTML, CSS, JS, Java, Angular, Node
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![HTML].https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+  ![CSS].https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+  ![Angular].https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+ 
 
 <br/>
 
