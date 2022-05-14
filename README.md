@@ -1,6 +1,6 @@
 <h3> 🙍‍♂️: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Tenho 23 anos e sou novato no mundo do desenvolvimento e programação.
+- 🤔 &nbsp; Tenho 23 anos, atuo como Desenvolvedor Web Full Stack
 - 🎓 &nbsp; Estudando Engenharia da Computação.
 - 💼 &nbsp; Estagiário desde o dia 08/09/2021
 - 🌱 &nbsp; Adquirindo conhecimentos durante o estágio em HTML, CSS, JS, Java, Angular, Node
