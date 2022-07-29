@@ -2,14 +2,20 @@
 
 - 🤔 &nbsp; Tenho 23 anos, atuo como Desenvolvedor Web Full Stack
 - 🎓 &nbsp; Estudando Engenharia da Computação.
-- 💼 &nbsp; Estagiário desde o dia 08/09/2021
-- 🌱 &nbsp; Adquirindo conhecimentos durante o estágio em HTML, CSS, JS, Java, Angular, Node
+- 💼 &nbsp; Estagiário
+- 🌱 &nbsp; Adiquirindo conhecimentos durante o estágio em HTML, CSS, JS, Java, Angular, Node
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
 
 
 **Ferramentas de Desenvolvimento**
