@@ -1,9 +1,9 @@
 <h3> 🙍‍♂️: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Tenho 24 anos, atuo como Desenvolvedor Web Full Stack
-- 🎓 &nbsp; Estudando Engenharia da Computação.
-- 💼 &nbsp; Estagiário
-- 🌱 &nbsp; Adiquirindo conhecimentos durante o estágio em HTML, CSS, JS, Java, Angular, Node
+- 🤔 &nbsp; Tenho 25 anos, atuo como Desenvolvedor Web Full Stack
+- 🎓 &nbsp; Cursando o último ano de Engenharia da Computação.
+- 💼 &nbsp; Pleno
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
