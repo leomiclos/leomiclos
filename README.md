@@ -3,6 +3,7 @@
 - 🤔 &nbsp; Tenho 25 anos, atuo como Desenvolvedor Web Full Stack
 - 🎓 &nbsp; Cursando o último ano de Engenharia da Computação.
 - 💼 &nbsp; Pleno
+- 📋 &nbsp; https://devleonardo.vercel.app/
 
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
