@@ -1,31 +1,69 @@
-<h3> 🙍‍♂️: &nbsp;Sobre mim </h3>
+# 👋 Olá, eu sou o Leonardo Miclos!
 
-- 🤔 &nbsp; Tenho 25 anos, atuo como Desenvolvedor Web Full Stack
-- 🎓 &nbsp; Cursando o último ano de Engenharia da Computação.
-- 💼 &nbsp; Pleno
-- 📋 &nbsp; https://devleonardo.vercel.app/
+🎯 **Desenvolvedor Full Stack** | 🚀 Focado em construir soluções reais com performance, escalabilidade e design inteligente.
 
+Sou formado em Engenharia da Computação e venho atuando com desenvolvimento web há mais de 3 anos, entregando sistemas robustos e bem estruturados. Do front bonito ao back sólido, do SQL ao Docker, meu stack é completo.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+---
 
-**Aplicações e Dados**
+## 🧠 Tecnologias & Ferramentas
 
-  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![Nest.Js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="NestJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git"/>
+</div>
 
+---
 
+## ⚙️ Atualmente trabalhando em:
 
-**Ferramentas de Desenvolvimento**
+- 🧠 **Micro-SaaS de monitoramento de projetos freelancers** com **Angular + NestJS**
+- 📈 **DevOps na prática**: CI/CD com Docker, GitHub Actions, observabilidade com Prometheus + Grafana, testes de carga com k6 e arquitetura orientada a microsserviços
+- 🌍 **Landing pages responsivas** com foco total em UX real, acessibilidade e performance web (Pagespeed lover ❤️)
+- 🏛️ **Projeto legado Java** utilizando **JSF**, **Seam Framework**, **EJB**, **Maven**, **JBoss**, **ActiveMQ** e mensageria — mantendo e evoluindo sistemas críticos com responsabilidade e visão de modernização
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
- 
+---
 
-<br/>
+## 💡 O que me move
+
+- Criar soluções que impactem de verdade, com código limpo, arquitetado e fácil de escalar
+- Aprender e ensinar: compartilho o que aprendo e não paro de evoluir
+- Transformar ideias em produtos com usabilidade e propósito
+
+---
+
+## 📬 Onde me encontrar
+
+- 📧 Email: [leonardormiclos@gmail.com](mailto:leonardormiclos@gmail.com)  
+- 🌐 Portfólio: [www.leonardomiclos.com.br](https://www.leonardomiclos.com.br/)  
+- 💼 LinkedIn: [linkedin.com/in/leonardomiclos](https://www.linkedin.com/in/leonardomiclos/)  
+- 💻 GitHub: [github.com/leomiclos](https://github.com/leomiclos)
+
+---
+
+## 🧭 Curiosidades
+
+- ⛪ Cristão, sempre buscando evoluir como dev e como pessoa
+- 🧱 Gosto de sistemas modulares, limpos e com visão de produto desde o back ao front
+- 🎯 Buscando especialização em **DevOps moderno** e **arquitetura distribuída**
+
+---
+
+## 🔥 Bora construir algo junto?
+
+Se você quer alguém que entregue de verdade, entenda produto, e jogue como time: chama no LinkedIn ou no e-mail.  
+Aqui não tem firula, tem entrega. Vamos?
+
+---
+
 
 <a href="https://github.com/leomiclos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomiclos&theme=dracula&show_icons=true" />
@@ -33,8 +71,3 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-
-[![Linkedin:Leonardo Miclos](https://img.shields.io/badge/-LeonardoMiclos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardomiclos/)](https://www.linkedin.com/in/leonardomiclos)
-[![Gmail Badge](https://img.shields.io/badge/-leonardormiclos@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardormiclos@gmail.com)](mailto:leonardo)
-[![GitHub Leonardo]( https://img.shields.io/github/followers/leomiclos?label=follow&style=social)](https://github.com/leomiclos/leomiclos)
