@@ -65,9 +65,12 @@ Aqui não tem firula, tem entrega. Vamos?
 ---
 
 
-<a href="https://github.com/leomiclos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomiclos&theme=dracula&show_icons=true" />
-</a>
+# 📊 Meu GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leomiclos&show_icons=true&count_private=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leomiclos&theme=dark)
+
 
 <br/>
 
