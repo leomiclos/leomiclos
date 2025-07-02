@@ -68,7 +68,7 @@ Aqui não tem firula, tem entrega. Vamos?
 # 📊 Meu GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leomiclos&show_icons=true&count_private=true&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=leomiclos&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 <br/>
 
