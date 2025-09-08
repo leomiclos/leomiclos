@@ -25,7 +25,6 @@ Sou formado em Engenharia da Computação e venho atuando com desenvolvimento we
 
 ## ⚙️ Atualmente trabalhando em:
 
-- 🧠 **Micro-SaaS de monitoramento de projetos freelancers** com **Angular + NestJS**
 - 📈 **DevOps na prática**: CI/CD com Docker, GitHub Actions, observabilidade com Prometheus + Grafana, testes de carga com k6 e arquitetura orientada a microsserviços
 - 🌍 **Landing pages responsivas** com foco total em UX real, acessibilidade e performance web (Pagespeed lover ❤️)
 - 🏛️ **Projeto legado Java** utilizando **JSF**, **Seam Framework**, **EJB**, **Maven**, **JBoss**, **ActiveMQ** e mensageria — mantendo e evoluindo sistemas críticos com responsabilidade e visão de modernização
