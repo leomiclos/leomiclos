@@ -2,7 +2,7 @@
 
 🎯 **Desenvolvedor Full Stack** | 🚀 Focado em construir soluções reais com performance, escalabilidade e design inteligente.
 
-Sou formado em Engenharia da Computação e venho atuando com desenvolvimento web há mais de 3 anos, entregando sistemas robustos e bem estruturados. Do front bonito ao back sólido, do SQL ao Docker, atendendo em várias áreas.
+Sou formado em Engenharia da Computação e venho atuando com desenvolvimento web há mais de 4 anos, entregando sistemas robustos e bem estruturados. Do front bonito ao back sólido, do SQL ao Docker, atendendo em várias áreas.
 
 ---
 
